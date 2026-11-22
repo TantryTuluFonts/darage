@@ -26,7 +26,7 @@ Download the latest build from the [Releases page](https://github.com/TantryTulu
 
 Darage is key-mapped: it places Tulu lipi glyphs on the Latin keys, so you type with an ordinary keyboard and the font draws the Tulu forms. The specimen above shows what each key produces. Because the text is stored as Latin characters, it only reads as Tulu while Darage is applied; paste it somewhere with a different font and it will show as plain Latin letters. Keep that in mind for search, sharing and archiving.
 
-Darage follows the **AccTantra** typing standard, the shared key map for all the ASCII fonts in the Tantry family. See the [key map](https://github.com/PrahladTantry/AccTantra/blob/main/docs/KEYMAP.md), the [conjunct reference](https://github.com/PrahladTantry/AccTantra/blob/main/docs/CONJUNCTS.md) and the [typing examples](https://github.com/PrahladTantry/AccTantra/blob/main/docs/EXAMPLES.md). Try it: type `EAamA nEma narayNay` and Darage shows *Om namo Narayanaya*.
+Darage follows the **AccTantra** typing standard, the shared key map for all the ASCII fonts in the Tantry family. See the [key map](https://github.com/TantryTuluFonts/AccTantra/blob/main/docs/KEYMAP.md), the [conjunct reference](https://github.com/TantryTuluFonts/AccTantra/blob/main/docs/CONJUNCTS.md) and the [typing examples](https://github.com/TantryTuluFonts/AccTantra/blob/main/docs/EXAMPLES.md). Try it: type `EAamA nEma narayNay` and Darage shows *Om namo Narayanaya*.
 
 Want to modify it? Open `sources/Xdareg(darage)v1(RL).glyphs` in [Glyphs](https://glyphsapp.com). Under the OFL you can publish a modified version under your own name.
 
