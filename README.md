@@ -14,6 +14,10 @@ Darage is the only font in the family released with its source: the Glyphs file 
 | **License** | [SIL OFL 1.1](OFL.txt) |
 | **Family** | [Tantry Tulu Font Foundry](https://github.com/TantryTuluFonts) |
 
+## The standard
+
+[the standard for writing Tuḷu](https://tantrytulufonts.github.io/tulu-script-standard/) is set out in [*Tuḷu Varṇāmr̥ta*](https://tantrytulufonts.github.io/tulu-varnamruta/). [Mallige](https://github.com/TantryTuluFonts/mallige) and [Mallige Unicode](https://github.com/TantryTuluFonts/Mallige_unicode) are its faithful representations. The same work is being extended to Darage, and it is being ported to Unicode as well.
+
 ## Get the font
 
 Download the latest build from the [Releases page](https://github.com/TantryTuluFonts/darage/releases/latest), or take `fonts/Xdareg(darage)v1(RL).otf` straight from this repository.
